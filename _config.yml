@@ -81,7 +81,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Website focused on microscopic plants and their benefits to humanity
+description: 'Website focused on microscopic plants '
 purpose:
   - type: contact
     url: 'mailto:drn2@nyu.edu'

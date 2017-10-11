@@ -1,0 +1,91 @@
+typography_spectrum: 0.9184689691755921
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.8644665624015033
+  lightness: 0.39754917682148516
+  saturation: 0.8341163012664765
+  rhythmicContrast: 0.04857560247182846
+github: true
+layout_spectrum: 0.3060429850593209
+name: Micro Plant Technologies
+url: 'http://microplanttech.net'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: About me
+    id: 00878813-d676-43e4-800f-1bfbba14beb2
+    type: content
+  - name: Purpose
+    id: 72e0df05-b5cf-47b2-b61f-5dede504800d
+    type: content
+  - name: GitHub page
+    url: 'https://github.com/DavidWinterEagle'
+    type: external
+title: Micro Plant Technologies
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e17bed4-ee2f-434e-9602-269ba2cf4c20.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e17bed4-ee2f-434e-9602-269ba2cf4c20.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d41e5fb0-5d04-4650-8b44-2ffc54e2f2c9.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d41e5fb0-5d04-4650-8b44-2ffc54e2f2c9.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Website focused on microscopic plants and their benefits to humanity
+purpose:
+  - type: contact
+    url: 'mailto:drn2@nyu.edu'
+    label: Contact me
+  - type: internal
+    label: Mission statement
+    item: 72e0df05-b5cf-47b2-b61f-5dede504800d

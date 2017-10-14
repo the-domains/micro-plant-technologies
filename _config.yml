@@ -31,6 +31,9 @@ navigation:
   - name: GitHub page
     url: 'https://github.com/MicroPlantTechExec'
     type: external
+  - name: Youtube
+    url: 'https://www.youtube.com/channel/UCuAq7se2UrdCUWlr6JNozKw?'
+    type: external
 title: Micro Plant Technologies
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''

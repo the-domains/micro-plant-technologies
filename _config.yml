@@ -89,6 +89,3 @@ purpose:
   - type: contact
     url: 'mailto:drn2@nyu.edu'
     label: Contact me
-  - type: internal
-    label: Mission statement
-    item: 72e0df05-b5cf-47b2-b61f-5dede504800d
